@@ -595,6 +595,13 @@ footer span a:hover{
     .right form .error-box{
        width: 150px;
     }
+    .card{
+        width: 100%;
+        box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+        transition: 0.3s;
+        border-radius: 20px;
+        background-color: white;
+      }
     .scroll-up-btn{
         right: 15px;
         bottom: 15px;
